@@ -1,2 +1,2 @@
-# Advanced-AI
-Advanced artificial intelligence
+# SUSTech Advanced-AI
+Some homeworks of Advanced artificial intelligence
