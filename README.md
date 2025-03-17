@@ -1,2 +1,2 @@
 # SUSTech Advanced-AI
-Some homeworks of Advanced artificial intelligence
+Some assignments of Advanced artificial intelligence
